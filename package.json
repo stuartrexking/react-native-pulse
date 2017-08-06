@@ -3,6 +3,12 @@
   "version": "1.0.5",
   "description": "React Native Pulse Animation",
   "main": "pulse.js",
+  "dependencies": {
+    "prop-types": "^15.5.7"
+  },
+  "peerDependencies": {
+    "react": "^15.5.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

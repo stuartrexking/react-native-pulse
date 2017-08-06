@@ -1,13 +1,15 @@
 import React, {
   Component,
-  PropTypes
 } from 'react';
+
 import {
   View,
   Text,
   Image,
   StyleSheet,
 } from 'react-native';
+
+import PropTypes from 'prop-types';
 
 const styles = StyleSheet.create({
     container: {
